@@ -131,7 +131,7 @@ All submitted work must be your own. Collaboration is encouraged for discussion 
 [[3](https://www.youtube.com/playlist?list=PLZU5hLL_713x0_AV_rVbay0pWmED7992G)]. Digital VLSI Design (RTL to GDS), Adam Teman, 2021.
 
 ## Office Hours
-- Mon-Fri : 17:00 PM - 18:00[![Discord](https://dcbadge.limes.pink/api/server/https://discord.gg/k9bTqNza?style=flat)](https://discord.gg/k9bTqNza)
+- Mon-Fri : 17:00PM-18:00PM [![Discord](https://dcbadge.limes.pink/api/server/https://discord.gg/k9bTqNza?style=flat)](https://discord.gg/k9bTqNza)
 - Or by appointment
   
 ## Note
