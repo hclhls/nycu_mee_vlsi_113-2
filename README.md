@@ -2,7 +2,7 @@
 Deptartment: NYCU MEE  
 Semester: Spring 2025  
 Credits: 3  
-Course Instructor: ** Dr. Jesse C. Lin  
+Course Instructor: Dr. Jesse C. Lin  
 Email: [jesse.c.lin@gmail.com](mailto:jesse.c.lin@gmail.com)  
 Linkedin: [jesse-c-lin-663b6577](https://www.linkedin.com/in/jesse-c-lin-663b6577/)  
 GitHub: [https://github.com/hclhls](https://github.com/hclhls/ncyu_mee_vlsi_2501)
@@ -11,7 +11,7 @@ GitHub: [https://github.com/hclhls](https://github.com/hclhls/ncyu_mee_vlsi_2501
 This course introduces students to the fundamentals of Very Large Scale Integration (VLSI) design, focusing on CMOS technology, circuit characteristics, and physical design principles. Students will learn open-source Electronic Design Automation (EDA) tools and gain hands-on experience in designing integrated circuits.
 
 ## Prerequisites
-- Circuit Lheory
+- Circuit Theory
 - Microelectronics
 - Digital Logic Design
 - Basic programming knowledge
@@ -26,7 +26,7 @@ Upon completion of this course, students will be able to:
 
 ## Required Materials
 - Textbook: "CMOS VLSI Design: A Circuits and Systems Perspective" by Weste and Harris, 4th Edition
-- Software: [Ngspice](https://ngspice.sourceforge.io/), [Icarus Verilog](https://steveicarus.github.io/iverilog/), [Yosys](https://yosyshq.net/yosys/), [OPENROAD](https://openroad.readthedocs.io/en/latest/index.html)
+- Software: [VLSI Stick Diagrammer](https://stixu.io/), [Ngspice](https://ngspice.sourceforge.io/), [Icarus Verilog](https://steveicarus.github.io/iverilog/), [Yosys](https://yosyshq.net/yosys/), [OPENROAD](https://openroad.readthedocs.io/en/latest/index.html)
 
 ## Course Topics
 
